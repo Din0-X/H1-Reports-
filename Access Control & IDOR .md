@@ -1,4 +1,4 @@
 1. [Account Takeover via Password Reset without user interactions](https://hackerone.com/reports/2293343)   -   Medium Diff  -- 34,000$
 2. [Banned user still has access to their deleted account via HackerOne's API using their API key](https://hackerone.com/reports/1577940)   -   Low Diff  -- Hidden$
 3. [Access to the business emails of Rockstar Support agents through the support platform](https://hackerone.com/reports/1920908)   -   Low Diff  -- 550$
-4. [
+4. [0-Click Account Takeover via Password Reset](https://hackerone.com/reports/2831902)   -   Mid - High DIff  --  34,000$ 
